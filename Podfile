@@ -28,7 +28,7 @@ target 'UnitTests' do
   pod 'Expecta'
   pod 'OCMock'
   pod 'KIF'
-  pod 'LayerKit'
+  pod 'LayerKit','<= 0.26.2'
   pod 'Atlas', path: '.'
 end
 
