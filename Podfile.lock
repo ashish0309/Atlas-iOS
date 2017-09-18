@@ -1,6 +1,6 @@
 PODS:
   - Atlas (1.0.32):
-    - LayerKit (<= 0.26.2)
+    - LayerKit (0.26.2)
   - Expecta (1.0.5)
   - KIF (3.5.1):
     - KIF/Core (= 3.5.1)
