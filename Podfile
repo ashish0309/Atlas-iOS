@@ -17,7 +17,7 @@ abstract_target 'test' do
   pod 'KIF'
   pod 'Expecta'
   pod 'OCMock'
-  pod 'LayerKit'
+  pod 'LayerKit','0.26.2'
   pod 'Atlas', path: '.'
 
   target 'ProgrammaticTests'
